@@ -2,7 +2,7 @@
 
 Este projeto é um gerenciador financeiro pessoal, composto por um front-end moderno e um back-end robusto.
 # OBS
-Os testos nos components e nas views estão em inglês, eu reitirei as demais moedas e deixei apenas BRL é interessante fazer essa alteração futuramente para ficar totalmente em português os textos mas n é algo que pretendo agora.
+Os textos nos components e nas views estão em inglês, eu reitirei as demais moedas e deixei apenas BRL. É interessante fazer essa alteração futuramente para ficar totalmente em português os textos, mas n é algo que pretendo agora.
 ## Front-end
 
 O front-end foi gerado inicialmente utilizando o Bolt, proporcionando uma base Vue 3 + TypeScript + Vite. Durante o desenvolvimento, diversos ajustes e melhorias foram realizados conforme as necessidades do projeto, incluindo customizações de layout, componentes e integrações com o back-end.
